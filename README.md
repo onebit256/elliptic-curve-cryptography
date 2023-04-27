@@ -28,3 +28,7 @@ Pairing
 https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html
 
 https://blog.statebox.org/elliptic-curve-pairings-213131769fac
+
+Standards
+
+https://neuromancer.sk/std/methods/
