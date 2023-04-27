@@ -21,3 +21,8 @@ https://alinush.github.io/2020/03/12/scalable-bls-threshold-signatures.html
 ETH2.0
 
 https://eth2book.info/altair/part2/building_blocks/signatures/
+
+
+Pairing
+
+https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html
