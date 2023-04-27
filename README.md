@@ -21,6 +21,8 @@ https://medium.com/asecuritysite-when-bob-met-alice/explaining-bls12-381-the-zer
 
 https://ethresear.ch/t/bls-signatures-in-solidity/7919
 
+https://hackmd.io/@ralexstokes/rJegpNo7I
+
 
 ETH2.0
 
