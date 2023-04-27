@@ -26,3 +26,5 @@ https://eth2book.info/altair/part2/building_blocks/signatures/
 Pairing
 
 https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html
+
+https://blog.statebox.org/elliptic-curve-pairings-213131769fac
