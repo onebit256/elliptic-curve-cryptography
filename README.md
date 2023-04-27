@@ -17,6 +17,10 @@ Considerations when interacting with Ethereum for BLS signatures    https://hack
 
 https://alinush.github.io/2020/03/12/scalable-bls-threshold-signatures.html
 
+https://medium.com/asecuritysite-when-bob-met-alice/explaining-bls12-381-the-zero-knowledge-proof-curve-aa5eabec8261
+
+https://ethresear.ch/t/bls-signatures-in-solidity/7919
+
 
 ETH2.0
 
@@ -29,6 +33,10 @@ https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html
 
 https://blog.statebox.org/elliptic-curve-pairings-213131769fac
 
+https://medium.com/iovlabs-innovation-stories/choosing-the-right-curve-bf183d477a
+
 Standards
 
 https://neuromancer.sk/std/methods/
+
+https://www.evm.codes/precompiled?fork=shanghai
