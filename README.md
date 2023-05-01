@@ -47,3 +47,5 @@ Hash to Hash to Curve
 BLS Hash to Curve阶段还涉及到一些其他的优化技术，如扩展的分段线性多项式（Extended W-NAF representation of Frobenius）和批量哈希（Batch hashing），这些技术可以加速哈希到曲线的计算并降低其成本。
 
 https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627
+
+https://www.ietf.org/archive/id/draft-irtf-cfrg-pairing-friendly-curves-08.html
